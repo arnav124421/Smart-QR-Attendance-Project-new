@@ -8,7 +8,7 @@ import sqlite3
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-import cv2
+
 import numpy as np
 import pandas as pd
 import qrcode
